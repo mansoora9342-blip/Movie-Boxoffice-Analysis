@@ -4,8 +4,8 @@
    This project analyzes box office performance data of 100+ movies to identify revenue, profitability, and performance trends using Excel and Power BI.
 
 ## Tools & Technologies
-  Microsoft Excel
-  Power BI
+  - Microsoft Excel
+  - Power BI
 
 ## Project Workflow
    Cleaned and validated movie data in Excel (budget, box office, profit, dates).
